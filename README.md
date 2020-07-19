@@ -11,23 +11,38 @@ Aplicação para armazenar repositórios, que irá permitir a criação, listage
 ## Instalação
 
 - Para iniciar a instalação é necessário clonar o repositório
-    >`git clone [url_repositorio]`
+
+  ```shell
+  git clone [url_repositorio]
+  ```
 
 - Entrar no diretório clonado
-    >`cd gostack-conceitos-react-native`
+
+  ```shell
+  cd gostack-conceitos-react-native
+  ```
 
 - Instalar as dependências do projeto via **NPM** ou **YARN**
-    >`npm install`
+
+  ```shell
+  npm install
+  ```
 
 - Essa aplicação depende do back-end criado no desafio anterior: **[gostack-conceitos-nodejs](https://github.com/fernmac/gostack-conceitos-nodejs)**
 
 ## Execução
 
 - Executar o comando para iniciar o mobile (ANDROID)
-    >`react-native run-android`
 
+  ```shell
+  react-native run-android
+  ```
+  
 - Executar o comando para iniciar o mobile (IOS)
-    >`react-native run-ios`
+
+  ```shell
+  react-native run-ios
+  ```
 
 ## Funcionalidades
 
